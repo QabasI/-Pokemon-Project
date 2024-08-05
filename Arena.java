@@ -1,7 +1,7 @@
 /*
 Authour Name : Qabas Imbewa
 File Name    : Arena.java
-Description  : does stuff
+Description  : Pokemon text-based game!
 */
 
 
